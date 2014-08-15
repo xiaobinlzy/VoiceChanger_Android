@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceChangerDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_startRecording">录音</string>
+    <string name="button_stopRecording">停止录音</string>
+    <string name="button_startPlaying">播放</string>
+    <string name="button_stopPlaying">停止播放</string>
+</resources>
